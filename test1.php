@@ -1,3 +1,7 @@
 <?php
-phpinfo()
+phpinfo();
+echo 'a';
+
+
+//comment houlai
 ?>
